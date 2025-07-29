@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Frontend-Developer from Germany.<br>Check out my project here <a>www.barbora-lambeinova.de</a></p>
+<p align="left">Frontend-Developer from Germany.<br>
 
 ###
 
