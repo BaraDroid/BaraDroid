@@ -1,9 +1,8 @@
-## 
-<h1 align="left">Hi there 👋, I am Barbora!</h1>
+<h1 align="left">Hey there, I am Barbora!</h1>
 
 ###
 
-<p align="left">Frontend-Developer from Germany.<br>
+<p align="left">Frontend-Developer from Germany.</p>
 
 ###
 
@@ -19,9 +18,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
-
-###
 
 ###
 
@@ -37,4 +42,3 @@
 </div>
 
 ###
-
